@@ -1,0 +1,6 @@
+C:\Users\rachel.frock\Desktop\.NetCore Training\Sogeti.Employee.Service.Training\Sogeti.Employee.Service.Data\bin\Debug\netcoreapp2.1\Sogeti.Employee.Service.Data.deps.json
+C:\Users\rachel.frock\Desktop\.NetCore Training\Sogeti.Employee.Service.Training\Sogeti.Employee.Service.Data\bin\Debug\netcoreapp2.1\Sogeti.Employee.Service.Data.dll
+C:\Users\rachel.frock\Desktop\.NetCore Training\Sogeti.Employee.Service.Training\Sogeti.Employee.Service.Data\obj\Debug\netcoreapp2.1\Sogeti.Employee.Service.Data.csprojAssemblyReference.cache
+C:\Users\rachel.frock\Desktop\.NetCore Training\Sogeti.Employee.Service.Training\Sogeti.Employee.Service.Data\obj\Debug\netcoreapp2.1\Sogeti.Employee.Service.Data.csproj.CoreCompileInputs.cache
+C:\Users\rachel.frock\Desktop\.NetCore Training\Sogeti.Employee.Service.Training\Sogeti.Employee.Service.Data\obj\Debug\netcoreapp2.1\Sogeti.Employee.Service.Data.AssemblyInfoInputs.cache
+C:\Users\rachel.frock\Desktop\.NetCore Training\Sogeti.Employee.Service.Training\Sogeti.Employee.Service.Data\obj\Debug\netcoreapp2.1\Sogeti.Employee.Service.Data.AssemblyInfo.cs
